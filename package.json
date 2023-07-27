@@ -1,0 +1,21 @@
+{
+  "name": "droppii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/webdriverio": "^4.13.3",
+    "@wdio/cli": "^8.13.12",
+    "@wdio/junit-reporter": "^8.12.2",
+    "@wdio/local-runner": "^8.13.12",
+    "@wdio/mocha-framework": "^8.12.1",
+    "chai": "^4.3.7",
+    "webdriverio": "^8.13.12"
+  }
+}
